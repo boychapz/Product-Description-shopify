@@ -9,7 +9,7 @@ body{
 .all-container{
     margin: auto;
 margin-top: 50px ;
-border: 1px solid black;
+
 background: white url("https://assets.codepen.io/6060109/waves.png");
 }
 .thumpnail-container{
