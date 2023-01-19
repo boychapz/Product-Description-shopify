@@ -60,6 +60,7 @@ ul {
 .price-container{
     display: flex;
 
+
 }
 .qty-counter{
     height: 20px;
@@ -104,6 +105,7 @@ td{
     height: 20px;
     width: 50px;
 }
+
 .bubble-image{
     
         width:100px;
@@ -175,6 +177,16 @@ td{
 .box{
     height: 55px;
     width: 50px;
+}
+ul{
+    width: 100%;
+}
+.price-container{
+    text-align: center;
+    justify-content: center;
+}
+.text-Align{
+    text-align: center;
 }
 }
 @media only screen and (min-width: 601px){
